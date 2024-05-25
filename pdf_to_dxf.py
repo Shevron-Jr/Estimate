@@ -1,3 +1,5 @@
+# Converting pdf to dxf file (Inkscape), for easy parsing
+
 import subprocess
 import os
 
